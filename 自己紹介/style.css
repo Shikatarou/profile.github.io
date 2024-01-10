@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background: white;
+    text-align: center;
+    padding: 30px;
+}
+#hero img{
+    width: 100%;
+}
+#about{
+    background: white;
+    text-align: center;
+    padding: 50px;
+}
+#about h2{
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+#cat{
+    background: #f0f8ff;
+    text-align: center;
+    padding: 50px;
+}
+#cat img{
+    width: 400px;
+}
+#cat h2{
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+aside{
+    background: white;
+    text-align: center;
+    padding: 100px;
+}
+aside h2{
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+aside h3{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+aside p{
+    margin-bottom: 30px;
+}
+aside div{
+    background: #ffffe0;
+    padding: 30px;
+}
+aside img{
+    width: 400px;
+}
+footer{
+    background: #ffc0cb;
+    text-align: center;
+    padding: 20px;
+}
